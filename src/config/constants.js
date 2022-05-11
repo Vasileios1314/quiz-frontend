@@ -3,5 +3,6 @@ export const apiUrtlListPopularMovie =
 export const apiUrlPoster = "https://www.themoviedb.org/t/p/w1280";
 export const apiKey = "af6f578a62f9646adf2698f4f5cc2853";
 // export const apiUrl = "http://localhost:4000";
-export const apiUrl = process.env.REACT_APP_API_URL || "";
+export const apiUrl =
+  process.env.REACT_APP_API_URL || "https://moviequizgame.netlify.app";
 export const DEFAULT_MESSAGE_TIMEOUT = 3000;
