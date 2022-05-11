@@ -1,4 +1,4 @@
-[![Social banner for Beer Boutique](https://play-lh.googleusercontent.com/CEuBzhjSrMdLryPZvX-qxNbtpbGiGbGZHMDY1YT6pXfPAsRRKphwW2v-6hZmSz8PIMg)]()
+[![Social banner for Beer Boutique](https://play-lh.googleusercontent.com/CEuBzhjSrMdLryPZvX-qxNbtpbGiGbGZHMDY1YT6pXfPAsRRKphwW2v-6hZmSz8PIMg)](https://moviequizgame.netlify.app/)
 
 ## Welcome to Movie Quiz.
 
@@ -28,12 +28,9 @@ I know that from experience and since now i have the tools i took the liberty to
 
 👇 **Click links to see code samples in this project** 👇
 
-- [React](s) ⭐
-- [Redux for state management]() ⭐
-- [Express as web app framework](https://github.com/Vasileios1314/beer_boutique_backend/blob/master/index.js)
-  - [REST API](https://github.com/Vasileios1314/beer_boutique_backend/tree/master/routers)
-- [Sequelize as ORM](https://github.com/Vasileios1314/beer_boutique_backend/tree/master/models)
-- [Many-to-many models](https://github.com/Vasileios1314/beer_boutique_backend/tree/master/models) ⭐
+- [React](https://github.com/Vasileios1314/quiz-frontend/blob/master/src/App.js) ⭐
+- [Redux for state management](https://github.com/Vasileios1314/quiz-frontend/tree/master/src/store) ⭐
+- [Express as web app framework](https://github.com/Vasileios1314/movie-quiz-backend/blob/master/index.js) ⭐
 
 ⭐ _New technology learned during this project_
 
@@ -47,7 +44,16 @@ I know that from experience and since now i have the tools i took the liberty to
 
 ## Backend server repo
 
-The backend side of this project is an Express server using Sequelize. [Click here for more details]()
+The backend side of this project is an Express server using Sequelize. [Click here for more details](https://github.com/Vasileios1314/movie-quiz-backend)
+
+---
+
+## Collaborators
+
+- [Tom Collins](https://github.com/t0mc0llins)
+- [Pooja Dalai](https://github.com/poojadalai)
+- [Alina Kovaleva](https://github.com/Alina-Kovaleva)
+- [Vasileios Bomponis](https://github.com/Vasileios1314)
 
 ---
 
